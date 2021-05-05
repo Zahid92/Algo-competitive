@@ -21,7 +21,7 @@ for _ in range(test):
         else:
             d[item] = 1
     for key in d.keys():
-        print(key,d[key])
+        #print(key,d[key])
         num += f(d[key])
 
     print(num)
