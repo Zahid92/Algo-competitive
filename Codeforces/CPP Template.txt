@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-#typedef long long ll;
-#typedef vector<long long> vl;
-#typedef pair<int,int> pi;
+typedef long long ll;
+typedef vector<long long> vl;
+typedef pair<int,int> pi;
 #define push_back PB
 #define make_pair MP
 #define forsn(i,a,b) for(int i=a;i<b;++i)
